@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @wmblack23
 - 👀 I'm interested in data, with a specific interest in sports data
-- 🌱 I'm currently learning Pandas
 - 📫 wmblack23 @ gmail.com
 
 <!---
