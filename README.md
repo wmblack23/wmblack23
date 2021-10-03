@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @wmblack23
-- 👀 I'm interested in data, with a specific interest in sports data
+- 👀 I'm interested in python and data
 - 📫 wmblack23 @ gmail.com
 
 <!---
