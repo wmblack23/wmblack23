@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @wmblack23
-- 👀 I'm interested full stack web development
 - 📫 wmichaelblack [at] gmail.com
 
 <!---
